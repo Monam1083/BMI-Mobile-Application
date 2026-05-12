@@ -124,6 +124,9 @@ class _BMIScreenState extends State<BMIScreen> {
                 ),
               ),
             ),
+
+            SizedBox(height: 30),
+            if (bmi != null) _buildResultCard(),
           ],
         ),
       ),
