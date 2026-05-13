@@ -9,9 +9,21 @@ A sleek, dark-themed Body Mass Index calculator built with Flutter. Features smo
 
 | Home Screen | Result Card |
 |---|---|
-| `screenshot_home.png` | `screenshot_result.png` |
+<img width="666" height="1488" alt="WhatsApp Image 2026-05-13 at 9 37 45 AM (1)" src="https://github.com/user-attachments/assets/94d9eec4-97b8-49f4-b28c-8b6abe4365a4" />
+<img width="709" height="1482" alt="WhatsApp Image 2026-05-13 at 9 37 45 AM (2)" src="https://github.com/user-attachments/assets/0c198716-d994-4a68-9106-bbcf345ea3ce" />
+<img width="656" height="1473" alt="WhatsApp Image 2026-05-13 at 9 37 45 AM" src="https://github.com/user-attachments/assets/8faeff1f-10c5-4089-91ce-3cf706a45218" />
+<img width="720" height="1494" alt="WhatsApp Image 2026-05-13 at 9 37 46 AM" src="https://github.com/user-attachments/assets/af4afe1e-269a-40ce-b102-ea87173649d3" />
+
+
 
 ---
+## video
+
+
+
+
+https://github.com/user-attachments/assets/1474fcbe-c892-4b88-b6dc-8635f7446226
+
 
 ## ✨ Features
 
